@@ -1,21 +1,7 @@
-# requirements.txt
-
-# Streamlit version compatible with Python 3.7–3.10
+python==3.10.0
 streamlit==1.7.0
-
-# NumPy version compatible with Python 3.7–3.10
 numpy==2.0.2
+pandas==2.3.0
+scikit-learn==1.7.0
 
-# Pandas version compatible with Python 3.7–3.10
-pandas==1.3.0
 
-# Scikit-learn version compatible with Python 3.7–3.10
-scikit-learn==0.24.0
-
-# Pickle is built-in, so no need to include it here
-# You can just use it directly in your Python code
-# import pickle
-
-# Additional libraries (add more as needed)
-# Example:
-# matplotlib>=3.4.0,<4.0
