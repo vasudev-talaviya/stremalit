@@ -4,7 +4,7 @@
 streamlit==1.7.0
 
 # NumPy version compatible with Python 3.7–3.10
-numpy==1.21.2
+numpy==2.0.2
 
 # Pandas version compatible with Python 3.7–3.10
 pandas==1.3.0
