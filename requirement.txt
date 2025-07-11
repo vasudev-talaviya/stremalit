@@ -1,4 +1,4 @@
-streamlit==1.7.0
-numpy==2.0.2
-pandas==2.3.0
-scikit-learn==1.7.0
+streamlit==1.32.0         # Recent, stable version (as of early 2025)
+numpy==1.26.4             # Widely compatible
+pandas==2.2.2             # Stable and compatible with above
+scikit-learn==1.4.2       # Latest version with stable support
