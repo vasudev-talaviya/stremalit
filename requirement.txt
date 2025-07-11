@@ -1,4 +1,16 @@
-streamlit==1.32.0         # Recent, stable version (as of early 2025)
-numpy==1.26.4             # Widely compatible
-pandas==2.2.2             # Stable and compatible with above
-scikit-learn==1.4.2       # Latest version with stable support
+# Core build dependencies
+Cython==3.0.10
+numpy==1.26.4
+setuptools==69.5.1
+wheel==0.43.0
+meson-python==0.15.0
+ninja==1.11.1
+
+# Optional: for Parquet/Feather I/O support
+pyarrow==15.0.2
+
+# Optional: development/testing tools (safe to remove if not needed)
+# pytest==8.2.1
+# mypy==1.10.0
+# black==24.4.2
+# isort==5.13.2
